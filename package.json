@@ -1,0 +1,11 @@
+{
+  "id": "chatwoot",
+  "name": "Chatwoot",
+  "version": "1.4.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.chatwoot.com/app/login",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}
