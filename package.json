@@ -1,11 +1,10 @@
 {
   "id": "chatwoot",
   "name": "Chatwoot",
-  "version": "1.4.0",
+  "version": "1.0.0",
   "license": "MIT",
+  "repository": "https://github.com/maximeMD/ferdi-chatwoot",
   "config": {
-    "serviceURL": "https://app.chatwoot.com/app/login",
-    "hasNotificationSound": true,
-    "hasIndirectMessages": true
+    "serviceURL": "https://app.chatwoot.com/app/login"
   }
 }
